@@ -1,0 +1,60 @@
+body{
+	background-color: white;
+	color: #93b6f0;
+}
+h2 {
+	font-family: 'Nova Flat', cursive;
+	color: #a11f31;
+	font-size: 40px;
+	text-align: center;
+}
+h4 {
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+h4 > span {
+	color: #a11f31;
+	font-size: 45px;
+}
+.jumbotron > h1 {
+	font-family: 'Nova Flat', cursive;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+.jumbotron > p {
+	font-family: 'Amatic SC', cursive;
+	/**font-family: 'Nova Flat'. cursive;**/
+	font-size: 25px;
+	color: white;
+	/**color: #a11f31;**/
+	font-weight: bold;
+	text-align: center;
+
+}
+#jumbo-background {
+	background-image: url("../images/crystal-background.jpg");
+	width: 100%;
+	height: auto;
+	outline-width: 10px;
+	outline-color: #a11f31;
+}
+.panel-crystal {
+	background-image: url("../images/crystal-background.jpg");
+	width: 100%;
+	height: auto;
+}
+.panel-crystal > h3 {
+	font-family: 'Nova Flat', cursive;
+	color: #a11f31;
+	font-size: 25px;
+	text-align: center;
+}
+.panel-crystal > h2 {
+	font-family: 'Nova Flat', cursive;
+	color: #a11f31;
+	font-size: 35px;
+	text-align: center;
+}
